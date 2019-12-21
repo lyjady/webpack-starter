@@ -7,7 +7,7 @@ import $ from 'jquery'
 $(function () {
     $('li:odd').css('backgroundColor', 'skyblue');
     $('li:even').css('backgroundColor', function () {
-        return '#' + 'D97634'
+        return '#' + 'FF0000'
     });
 });
 //1.webpack能够处理JS文件的互相依赖关系
