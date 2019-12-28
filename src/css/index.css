@@ -1,3 +1,10 @@
 li {
     list-style: none;
 }
+
+#box {
+    width: 480px;
+    height: 270px;
+    background: url("../images/StartCraft.jpg");
+    background-size: cover;
+}
